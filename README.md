@@ -1,2 +1,1 @@
-# Sign-Language-Detectiom
-Minor Project
+# Sign-Language-Detection
